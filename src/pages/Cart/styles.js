@@ -48,7 +48,6 @@ export const ProductTable = styled.table`
   }
 
   strong {
-    color: #eee;
     display: block;
   }
 
